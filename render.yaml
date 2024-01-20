@@ -1,6 +1,6 @@
 
   services:
   - type: web
-    name: The Unblocked Hub
+    name: The Unblockd Hamad Hub
     env: docker
     plan: free
